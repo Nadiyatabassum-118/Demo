@@ -1,7 +1,7 @@
 public class Fibonacci {
     public static void main(String[] args) {
         int n = 10; // Number of terms in the Fibonacci series
-        int[] fibSequence = new int[n];
+        int[] fibonacciSequence = new int[n];
 
         fibSequence[0] = 0;
         fibSequence[1] = 1;
